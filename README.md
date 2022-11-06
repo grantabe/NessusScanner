@@ -38,7 +38,7 @@ Performing credentialed Nessus Scan with no installed vulnerablities:  <br/>
 <img src="https://i.imgur.com/sUPUStd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Installing vulnerable version of FireFox:  <br/>
+Installing vulnerable version of Firefox:  <br/>
 <img src="https://i.imgur.com/UsAgeoz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -46,7 +46,7 @@ Nessus Scan with known vulnerabiltites:  <br/>
 <img src="https://i.imgur.com/Q01PP0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Remediating Vulnerabilities (Uninstalling Firefox and updating Windows:  <br/>
+Remediating Vulnerabilities (Uninstalling Firefox and updating Windows):  <br/>
 <img src="https://i.imgur.com/d1blgKr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
