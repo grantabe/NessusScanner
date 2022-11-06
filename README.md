@@ -8,39 +8,45 @@ Project consists of using VirtualBox to simulate a corporate network which uses 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Oracle VirtualBox</b>
-- <b>Active Directory</b>
+- <b>VMWare</b> 
+- <b>Nessus Vulnerability Scanner</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
-- <b>Windows Server 2019</b> 
+- <b>Windows 10 Pro</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating and configuring the server and client: <br/>
+Creating and configuring Windows 10 VM: <br/>
 <img src="https://i.imgur.com/OTr1aKU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Used PowerShell script to create over 1000 users on the network:  <br/>
+Downloading Nessus:  <br/>
 <img src="https://i.imgur.com/qe6iF3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up Remote Access Server (RAS) features to support Network Address Translation (NAT): <br/>
+Disabling firewall on VM: <br/>
 <img src="https://i.imgur.com/yLdFdWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Implementing and maintaining DNS and DHCP:  <br/>
+Performing uncredentialed Nessus Scan:  <br/>
 <img src="https://i.imgur.com/saXgCv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Connecting Windows client to Domain:  <br/>
+Performing credentialed Nessus Scan wiht no vulnerablities:  <br/>
 <img src="https://i.imgur.com/V53vZbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Group Policy Object and linking it to users on the network:  <br/>
+Installing vulnerable version of FireFox:  <br/>
+<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Remediating Vulnerabilities (Uninstalling Firefox and updating Windows:  <br/>
+<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Performing last credential scan to ensure vulnerabilties are remediated:  <br/>
 <img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
