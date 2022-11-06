@@ -19,7 +19,7 @@ Project consists of using VirtualBox to simulate a corporate network which uses 
 
 <p align="center">
 Creating and configuring Windows 10 VM: <br/>
-<img src="https://i.imgur.com/OTr1aKU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/49Bgf2F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Downloading Nessus:  <br/>
