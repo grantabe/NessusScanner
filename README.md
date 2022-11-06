@@ -23,31 +23,31 @@ Creating and configuring Windows 10 VM: <br/>
 <br />
 <br />
 Downloading Nessus:  <br/>
-<img src="https://i.imgur.com/qe6iF3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ovhNgMx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Disabling firewall on VM: <br/>
-<img src="https://i.imgur.com/yLdFdWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DtmSv82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Performing uncredentialed Nessus Scan:  <br/>
-<img src="https://i.imgur.com/saXgCv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hzQcijm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Performing credentialed Nessus Scan wiht no vulnerablities:  <br/>
-<img src="https://i.imgur.com/V53vZbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing credentialed Nessus Scan with no installed vulnerablities:  <br/>
+<img src="https://i.imgur.com/sUPUStd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing vulnerable version of FireFox:  <br/>
-<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UsAgeoz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Remediating Vulnerabilities (Uninstalling Firefox and updating Windows:  <br/>
-<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d1blgKr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Performing last credential scan to ensure vulnerabilties are remediated:  <br/>
-<img src="https://i.imgur.com/AOm5MxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Performing last credential scan to ensure most critical vulnerabilties are remediated:  <br/>
+<img src="https://i.imgur.com/2GgII9W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
