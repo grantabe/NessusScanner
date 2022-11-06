@@ -2,20 +2,20 @@
 
 
 <h2>Description</h2>
-Project consists of using VirtualBox to simulate a corporate network which uses domain services and active directory. After the "corporate" enviorment was created, Group Policy Objects were created and linked to the client virtual machine.
+The purpose of this project is to scan and remediate vulnerablities using Nessus Vulnerability Scanner. Nessus is used to run a credentialed scan on a local virtual machine for vulnerabilities and to remediate most of the vulnerabilties. After the vulnerablities are remediated another credential scan is ran to verify remediation.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>VMWare</b> 
+- <b>VMware</b> 
 - <b>Nessus Vulnerability Scanner</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10 Pro</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Creating and configuring Windows 10 VM: <br/>
